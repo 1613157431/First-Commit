@@ -1,6 +1,6 @@
 {
   "name": "gogocode-starter",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "gogocode examples",
   "keywords": [
     "babel",
@@ -25,11 +25,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.alibaba-inc.com:mm/gogocode-starter.git"
+    "url": "git@https://github.com/thx/gogocode-starter.git"
   },
   "author": "zhuori",
   "license": "ISC",
   "dependencies": {
-    "gogocode": "^0.0.29"
+    "gogocode": "^0.1.6"
   }
 }

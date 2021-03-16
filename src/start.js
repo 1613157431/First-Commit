@@ -1,5 +1,9 @@
+/**
+ * gogocode 简单示例
+ * https://gogocode.io/
+ */
 const $ = require('gogocode');
-// from https://gogocode.io/
+
 const from = `
 import a from 'a';
 console.log('get A');

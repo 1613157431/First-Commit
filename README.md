@@ -13,3 +13,9 @@ GoGoCode 上手示例
 ```
     npm run start 
 ```
+
+# 分析code目录中js文件
+
+```
+    node ./src/batch-transform.js 
+```
