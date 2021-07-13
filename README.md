@@ -1,7 +1,7 @@
 # GOGOCODE Starter
 
 GoGoCode 上手示例
-今天我做的东西
+今天我做的东西（不合格，重新做）
 # Install
 
 ```
